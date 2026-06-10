@@ -1,6 +1,6 @@
 import numpy as np
 
-print("Recalculating step-by-step physical fatigue...")
+
 
 # ── 1. Effort Multiplier ──────────────────────────────────────────────────────
 conditions_speed = [
